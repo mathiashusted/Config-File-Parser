@@ -7,7 +7,7 @@
 #include "configparser.h"
 
 
-ConfigParser::ConfigParser(char* path) {
+ConfigParser::ConfigParser(std::string path) {
 	configPath = path;
 }
 
