@@ -6,7 +6,7 @@
 
 class ConfigParser {
 public:
-	ConfigParser(char* path);
+	ConfigParser(std::string path);
 
 	std::map<std::string, std::string> ConfigParser::Read();
 
