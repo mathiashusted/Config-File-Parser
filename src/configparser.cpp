@@ -1,7 +1,6 @@
 //  Config file parser
 //  Mathias Husted 2017
 
-#include <iostream>
 #include <fstream>
 #include <map>
 #include "configparser.h"
